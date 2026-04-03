@@ -29,7 +29,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vinicius20-SM&show_icons=true&theme=tokyonight&count_private=true" />
