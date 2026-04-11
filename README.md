@@ -1,6 +1,7 @@
 # **Olá, sou o Vinícius!**
+<img src="https://media1.tenor.com/m/mGgWY8RkgYMAAAAC/hello-world.gif" alt="Hello Word" widht="200px" height="170px"/>
 
- Sobre mim:
+ # **Sobre mim:**
  - Estudante de Analise e Desenvolvimento de dados.
  - Belo Horizonte - Minas Gerais
  - Atualmente estudando **Python, Html, css e Javascript**.
