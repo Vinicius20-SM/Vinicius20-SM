@@ -21,7 +21,7 @@
 - Atualmente trabalhando em projetos com **FastAPI** e **Spring Boot**
 - Estudando **Python, Java, JavaScript, HTML e CSS**
 - Foco em **Back-end**, **APIs REST** e **desenvolvimento Full Stack**
-- Me contate pelo [LinkedIn](www.linkedin.com/in/vinicius-santos-moura) ou [Email](mailto:viniciusdev28@gmail.com)
+- Me contate pelo [LinkedIn](https://www.linkedin.com/in/vinicius-santos-moura/details/education/) ou [Email](mailto:viniciusdev28@gmail.com)
 - Acesse meu portfólio: [vinicius20-sm.github.io](https://vinicius20-sm.github.io)
 
 ---
