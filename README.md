@@ -54,8 +54,8 @@
 |---|---|---|
 | [api-financas-pessoais](https://github.com/Vinicius20-SM/api-financas-pessoais) | API REST de gestão financeira pessoal | FastAPI, SQLite, Python |
 | [analisador-sentimentos-java](https://github.com/Vinicius20-SM/analisador-sentimentos-java) | App Fullstack de análise de sentimentos | Java, Spring Boot, JPA |
-| [Calculadora_IMC](https://github.com/Vinicius20-SM/Calculadora_IMC) | Calculadora de IMC com interface web | HTML, CSS, JavaScript |
-| [Calculadora-Python](https://github.com/Vinicius20-SM/Calculadora-) | Calculadora simples com tratamento de exceções | Python |
+| [Yvii Works](https://yvii-works.github.io/yvii-works-impressoes-3d-e-pixel-art/) | Web página desenvolvida para um cliente do ramo de impressão 3d | HTML, CSS, JavaScript |
+
 
 ---
 
